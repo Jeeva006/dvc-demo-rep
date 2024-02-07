@@ -1,0 +1,5 @@
+outs:
+- md5: c502359c26a0931eef53b2207b2344f9
+  size: 1700
+  hash: md5
+  path: mtcars.csv
